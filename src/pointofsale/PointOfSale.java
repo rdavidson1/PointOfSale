@@ -17,6 +17,9 @@ public class PointOfSale {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Register r1 = new Register();
+        
+        r1.makeReciept("100");
     }
     
 }

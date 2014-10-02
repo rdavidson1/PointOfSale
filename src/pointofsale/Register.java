@@ -12,5 +12,17 @@ package pointofsale;
  */
 public class Register {
     
-     Receipt r1 = new Receipt();
+     private Receipt receipt1;
+     
+    /**
+     *
+     * @param customerId
+     */
+    public void makeReciept(String customerId){
+         receipt1 = new Receipt(CustomerId);
+     }
+    
+    public void addItem(){
+        
+    }
 }

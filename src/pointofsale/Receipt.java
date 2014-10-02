@@ -12,6 +12,10 @@ package pointofsale;
  */
 public class Receipt {
     
+    private Customer customer1;
     
+    private double subTotal;
+    private double tax;
+    private double grandTotal;
     
 }
