@@ -10,6 +10,6 @@ package pointofsale;
  *
  * @author Ryan
  */
-public class DiscountStrategy {
+public interface DiscountStrategy {
     
 }

@@ -10,6 +10,8 @@ package pointofsale;
  *
  * @author Ryan
  */
+
+// Start up class is called PointOfSale.
 public class PointOfSale {
 
     /**
