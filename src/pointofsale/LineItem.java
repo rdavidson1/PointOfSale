@@ -10,6 +10,10 @@ package pointofsale;
  *
  * @author Ryan
  */
-public class Display {
+public class LineItem {
     
+    private int quantity;
+    
+    
+    Product P1 = new Product();
 }

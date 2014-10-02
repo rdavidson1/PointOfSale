@@ -10,8 +10,6 @@ package pointofsale;
  *
  * @author Ryan
  */
-public class Receipt {
-    
-    
+public class FakeDatabase {
     
 }

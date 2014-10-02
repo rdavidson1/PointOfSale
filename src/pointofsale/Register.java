@@ -10,6 +10,7 @@ package pointofsale;
  *
  * @author Ryan
  */
-public class Store {
+public class Register {
     
+     Receipt r1 = new Receipt();
 }
